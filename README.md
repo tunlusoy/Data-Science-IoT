@@ -8,3 +8,7 @@ Variety of curated IoT resources as they relate to data science and AI
 - [Fritzing](http://fritzing.org): Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone.
 
 - [Seeed Studio Bazaar](https://www.seeedstudio.com/): The IoT Hardware Enabler
+
+## IoT Platforms
+- [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/): 
+
